@@ -10,7 +10,7 @@ config:
       name: Carga incremental
     - duration: 60
       arrivalRate: 200
-      maxVusers: 4000
+      maxVusers: 2000
       name: Carga sostenida
 scenarios:
   - name: "Load"
